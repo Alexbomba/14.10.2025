@@ -127,6 +127,7 @@
                 SetLesson(lesson);
             }
             for (int i = 0; i < count_homework; i++)
+
             {
                 SetHomework(homework);
             }
